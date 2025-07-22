@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
 **Backend:** Java, Spring Boot, Node.js, NestJS, Grails, PHP  
 **Frontend:** Angular, React, JavaScript, HTML5, CSS3, jQuery  
-**Mobile:** Ionic Framework  
+**Mobile:** Ionic Framework, Expo and React Native (Soon) ✨
 **Database:** Oracle PL/SQL, MySQL  
 **APIs:** RESTful, GraphQL, SOAP  
 **Cloud:** AWS  
