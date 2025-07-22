@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Senior Full Stack Developer & Technical Lead
 
-<!--
-**mohammed-fullstack-89/mohammed-fullstack-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**12+ years** building scalable enterprise solutions that drive business growth and operational efficiency.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- **Modernize Legacy Systems** using Node.js, Java & cloud architectures
+- **Architect Microservices** serving 50,000+ concurrent users
+- **Lead Cross-Functional Teams** of up to 5 engineers with Agile & DevOps practices
+- **Accelerate Delivery** by 25% through automation & mentoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Backend:** Java, Spring Boot, Node.js, NestJS, Grails, PHP  
+**Frontend:** Angular, React, JavaScript, HTML5, CSS3, jQuery  
+**Mobile:** Ionic Framework  
+**Database:** Oracle PL/SQL, MySQL  
+**APIs:** RESTful, GraphQL, SOAP  
+**Cloud:** AWS  
+**Other:** JSF, Struts
+
+## 📈 Impact
+- Improved application performance by **40%**
+- Reduced maintenance costs through system modernization
+- Champion of clean code, TDD & continuous integration
+
+*Always learning, always building. Let's create something amazing together!* ✨
