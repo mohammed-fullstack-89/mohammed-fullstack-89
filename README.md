@@ -54,14 +54,6 @@
 ## 📊 GitHub Analytics
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-fullstack-89&show_icons=true&theme=radical)
 
-
-## 🎯 Fun Facts
-- 🎮 **Gaming setup:** Mechanical keyboards enthusiast
-- 📚 **Currently reading:** "Staff Engineer" by Will Larson
-- 🌱 **Side projects:** Building a personal finance tracker
-- ☕ **Coffee addiction:** 4 cups/day (and counting!)
-- 🎵 **Coding playlist:** Lo-fi hip hop meets progressive rock
-
 ---
 
 💬 **Let's connect!** I'm always excited to discuss new opportunities, share knowledge, or just chat about the latest in tech. 
