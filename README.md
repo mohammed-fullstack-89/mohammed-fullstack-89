@@ -20,6 +20,5 @@
 ## 📈 Impact
 - Improved application performance by **40%**
 - Reduced maintenance costs through system modernization
-- Champion of clean code, TDD & continuous integration
 
 *Always learning, always building. Let's create something amazing together!* ✨
