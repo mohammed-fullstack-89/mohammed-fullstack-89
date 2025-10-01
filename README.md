@@ -35,13 +35,6 @@
 
 </details>
 
-## 📈 Impact & Achievements
-- 🚀 **40% performance improvement** in legacy system modernization
-- 👥 **Led 8+ cross-functional teams** across multiple projects
-- 📦 **50,000+ concurrent users** served by architected microservices
-- ⚡ **25% faster delivery** through automation and DevOps practices
-- 🎓 **Mentored 20+ junior developers** into senior roles
-
 ## 💭 Development Philosophy
 *"Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines."*
 
